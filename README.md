@@ -1,0 +1,1 @@
+Started with Google’s Ads Data Hub (ADH), then Meta and Amazon after.  Designed for secure data collaboration in walled gardens where advertisers (and their first-party data) and tech platforms to continue campaign activation, measurement and optimization without either party having access to the other’s customer data 
